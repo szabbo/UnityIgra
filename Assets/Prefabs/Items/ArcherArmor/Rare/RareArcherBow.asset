@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareArcherBow
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f97a3a366f473df49a9fee22a97b6717, type: 3}
+  stackSize: 0
+  title: Rare Archer Bow
+  quality: 2
+  price: 0
+  armorType: 6
+  armor: 10
+  intellect: 1
+  strenght: 9
+  stamina: 7
+  animationClips:
+  - {fileID: 7400000, guid: bca7a21609494ee4bb7ba98a34b59f78, type: 2}
+  - {fileID: 7400000, guid: b71686249cc0c234388d22c063c82f18, type: 2}
+  - {fileID: 7400000, guid: 6418c5633905f2647883d8b5a8f3a205, type: 2}
+  - {fileID: 7400000, guid: 983d16c122e1a6f44a9a5ee800454bc0, type: 2}
+  - {fileID: 7400000, guid: aac4b724d1fb3494bb87268a831e4951, type: 2}
+  - {fileID: 7400000, guid: 84229c3e5936d7b47af4fe32989905a0, type: 2}
+  - {fileID: 7400000, guid: da58172b9ce47dd4dac7ad0380b98dbb, type: 2}
+  - {fileID: 7400000, guid: 8b4987192d195ea4fafc57f5f6d8c793, type: 2}
+  - {fileID: 7400000, guid: aac4b724d1fb3494bb87268a831e4951, type: 2}
+  - {fileID: 7400000, guid: 84229c3e5936d7b47af4fe32989905a0, type: 2}
+  - {fileID: 7400000, guid: da58172b9ce47dd4dac7ad0380b98dbb, type: 2}
+  - {fileID: 7400000, guid: 8b4987192d195ea4fafc57f5f6d8c793, type: 2}

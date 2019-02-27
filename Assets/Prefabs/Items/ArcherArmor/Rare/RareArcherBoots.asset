@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareArcherBoots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 045c5517514161643adbe4bb0464608f, type: 3}
+  stackSize: 0
+  title: Rare Archer Boots
+  quality: 2
+  price: 0
+  armorType: 5
+  armor: 10
+  intellect: 3
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: e82ddad26770bf84abf9aa5324fb2b06, type: 2}
+  - {fileID: 7400000, guid: 4ce679b497c90684295044025079f67a, type: 2}
+  - {fileID: 7400000, guid: 72bde4c3459ed744c984b7c0f08a1302, type: 2}
+  - {fileID: 7400000, guid: 2fbec84eac326284b882b323747a617d, type: 2}
+  - {fileID: 7400000, guid: e82ddad26770bf84abf9aa5324fb2b06, type: 2}
+  - {fileID: 7400000, guid: 4ce679b497c90684295044025079f67a, type: 2}
+  - {fileID: 7400000, guid: 72bde4c3459ed744c984b7c0f08a1302, type: 2}
+  - {fileID: 7400000, guid: 2fbec84eac326284b882b323747a617d, type: 2}
+  - {fileID: 7400000, guid: 991e4ab93d9c1154f93d67026703f80c, type: 2}
+  - {fileID: 7400000, guid: d4658b6efbce0ab459915c4957871ee2, type: 2}
+  - {fileID: 7400000, guid: 2d0dc19b2c385df41a6e25b2ea0d33d8, type: 2}
+  - {fileID: 7400000, guid: 5febb078105730c43a9b8ff5fd94ad11, type: 2}

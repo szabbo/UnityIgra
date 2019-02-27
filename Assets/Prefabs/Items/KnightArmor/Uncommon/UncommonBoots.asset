@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonBoots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 85ad82997e5dbaa439ec44d4d83a1e8a, type: 3}
+  stackSize: 0
+  title: Uncommon Boots of Knights
+  quality: 1
+  price: 0
+  armorType: 5
+  armor: 6
+  intellect: 2
+  strenght: 5
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: 6fd61d5172619ea42aec62bb2154f16e, type: 2}
+  - {fileID: 7400000, guid: 9b945a9a8bf964544b357eb172aa332d, type: 2}
+  - {fileID: 7400000, guid: 4a746f9d9a8fff4449fc57ee2efd9988, type: 2}
+  - {fileID: 7400000, guid: 5c89f1fa81e58e84ba60afa8ff93750e, type: 2}
+  - {fileID: 7400000, guid: 6fd61d5172619ea42aec62bb2154f16e, type: 2}
+  - {fileID: 7400000, guid: 9b945a9a8bf964544b357eb172aa332d, type: 2}
+  - {fileID: 7400000, guid: 4a746f9d9a8fff4449fc57ee2efd9988, type: 2}
+  - {fileID: 7400000, guid: de4d31a9d55fd0248b579e9f86e3c385, type: 2}
+  - {fileID: 7400000, guid: 78d450865d831f947b5e4a4d6411ebbf, type: 2}
+  - {fileID: 7400000, guid: e3ca0d4cf21761642a65f2ce89aee061, type: 2}
+  - {fileID: 7400000, guid: 8d7f55ded331bee438e7d3213239c6ad, type: 2}
+  - {fileID: 7400000, guid: 606320db018d27a48b3e285713575c2b, type: 2}

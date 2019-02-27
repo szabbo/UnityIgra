@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonSword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1dae20bfe23c46245a3a718bcbb5a2d6, type: 3}
+  stackSize: 0
+  title: Uncommon Sword of Knights
+  quality: 1
+  price: 0
+  armorType: 6
+  armor: 6
+  intellect: 1
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: dd099b1b615eb954f839d628defc68c8, type: 2}
+  - {fileID: 7400000, guid: 7b187a7680d1bba41a317427a7111d63, type: 2}
+  - {fileID: 7400000, guid: 0fdc2c86245a6ee468c2b7eca4847094, type: 2}
+  - {fileID: 7400000, guid: 8f1b30c237a8ad44398e95e5c3723bbf, type: 2}
+  - {fileID: 7400000, guid: 8faac7f33b1084149ab54f75ce47b64d, type: 2}
+  - {fileID: 7400000, guid: a7306bda25f67714493dac8cef5c3cca, type: 2}
+  - {fileID: 7400000, guid: b5dc7f5d665a304449f1e7f2bca9a209, type: 2}
+  - {fileID: 7400000, guid: b07a12afb12e2984db34d01b1bf2ab74, type: 2}
+  - {fileID: 7400000, guid: 8faac7f33b1084149ab54f75ce47b64d, type: 2}
+  - {fileID: 7400000, guid: a7306bda25f67714493dac8cef5c3cca, type: 2}
+  - {fileID: 7400000, guid: b5dc7f5d665a304449f1e7f2bca9a209, type: 2}
+  - {fileID: 7400000, guid: b07a12afb12e2984db34d01b1bf2ab74, type: 2}

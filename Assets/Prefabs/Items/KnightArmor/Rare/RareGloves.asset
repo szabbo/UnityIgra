@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareGloves
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 626c0805a2f2dec4a85115b7fb7ec823, type: 3}
+  stackSize: 0
+  title: Rare Knight Gloves
+  quality: 2
+  price: 0
+  armorType: 3
+  armor: 10
+  intellect: 3
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: 6ed92d5687ef96d40b92fc4c638be9e4, type: 2}
+  - {fileID: 7400000, guid: cc323b7522daca449b7ec0a4c27f5434, type: 2}
+  - {fileID: 7400000, guid: e87153bc0378a6543b7babbc6f7e7f7e, type: 2}
+  - {fileID: 7400000, guid: 98d621a6cc6520847af2238c5a4d45e9, type: 2}
+  - {fileID: 7400000, guid: 49e538a13a88db744a0a4a4e01f4b8ee, type: 2}
+  - {fileID: 7400000, guid: c5fd3558a7aeacc45ac19e84aa1725b2, type: 2}
+  - {fileID: 7400000, guid: 15f93af0b8eb3944391e9659394d3e45, type: 2}
+  - {fileID: 7400000, guid: ec5157d78dcbfa54eb7b6574d4364256, type: 2}
+  - {fileID: 7400000, guid: 49e538a13a88db744a0a4a4e01f4b8ee, type: 2}
+  - {fileID: 7400000, guid: c5fd3558a7aeacc45ac19e84aa1725b2, type: 2}
+  - {fileID: 7400000, guid: 15f93af0b8eb3944391e9659394d3e45, type: 2}
+  - {fileID: 7400000, guid: ec5157d78dcbfa54eb7b6574d4364256, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonShoulders
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: bc7f5056369a94247a83bb5882b743fa, type: 3}
+  stackSize: 0
+  title: Uncommon Shoulders of Knights
+  quality: 1
+  price: 0
+  armorType: 1
+  armor: 6
+  intellect: 2
+  strenght: 4
+  stamina: 5
+  animationClips:
+  - {fileID: 7400000, guid: 4cef635a80ec9d04797710cc84fbb213, type: 2}
+  - {fileID: 7400000, guid: 3cadbdd5824520641bec5ce1dcdcb6fc, type: 2}
+  - {fileID: 7400000, guid: 331f63ff8d11e3d4d8e9772e42dc7c43, type: 2}
+  - {fileID: 7400000, guid: 467a1948b0dc0b2439d9d78f567a982d, type: 2}
+  - {fileID: 7400000, guid: 4cef635a80ec9d04797710cc84fbb213, type: 2}
+  - {fileID: 7400000, guid: 3cadbdd5824520641bec5ce1dcdcb6fc, type: 2}
+  - {fileID: 7400000, guid: 331f63ff8d11e3d4d8e9772e42dc7c43, type: 2}
+  - {fileID: 7400000, guid: 467a1948b0dc0b2439d9d78f567a982d, type: 2}
+  - {fileID: 7400000, guid: 4cef635a80ec9d04797710cc84fbb213, type: 2}
+  - {fileID: 7400000, guid: 3cadbdd5824520641bec5ce1dcdcb6fc, type: 2}
+  - {fileID: 7400000, guid: 331f63ff8d11e3d4d8e9772e42dc7c43, type: 2}
+  - {fileID: 7400000, guid: 467a1948b0dc0b2439d9d78f567a982d, type: 2}

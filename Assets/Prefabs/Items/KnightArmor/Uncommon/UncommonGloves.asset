@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonGloves
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 21c281d86996fc2468741e1e3fb7bfa3, type: 3}
+  stackSize: 0
+  title: Uncommon Gloves of Knights
+  quality: 1
+  price: 0
+  armorType: 3
+  armor: 6
+  intellect: 2
+  strenght: 5
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: d32a8d7141a24134189a25dc2e87ef5f, type: 2}
+  - {fileID: 7400000, guid: da7ccf9916f4e6943ab8b75ab1261e66, type: 2}
+  - {fileID: 7400000, guid: 2725df2c355fc444baaabe16ba1c4495, type: 2}
+  - {fileID: 7400000, guid: fefb9e4931ee4964da450219f76e58f8, type: 2}
+  - {fileID: 7400000, guid: b2e7b3628e4b05444b36b705dbe60e60, type: 2}
+  - {fileID: 7400000, guid: 164c7daf4fb0e4f4087088822e09f242, type: 2}
+  - {fileID: 7400000, guid: 78835fe199557de47b346e3b682427a8, type: 2}
+  - {fileID: 7400000, guid: a116f4c4706236747b082a76518484f2, type: 2}
+  - {fileID: 7400000, guid: b2e7b3628e4b05444b36b705dbe60e60, type: 2}
+  - {fileID: 7400000, guid: 164c7daf4fb0e4f4087088822e09f242, type: 2}
+  - {fileID: 7400000, guid: 78835fe199557de47b346e3b682427a8, type: 2}
+  - {fileID: 7400000, guid: a116f4c4706236747b082a76518484f2, type: 2}

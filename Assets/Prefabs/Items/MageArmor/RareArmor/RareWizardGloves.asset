@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareWizardGloves
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: fb24e9111a1d3104da8b9801b846e1f9, type: 3}
+  stackSize: 0
+  title: Rare Wizard Gloves
+  quality: 2
+  price: 0
+  armorType: 3
+  armor: 10
+  intellect: 3
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: 73d8b67f99fcb1c449adab5c3c0b3337, type: 2}
+  - {fileID: 7400000, guid: 803abbed6b40b2b488f6f6689d9b0cde, type: 2}
+  - {fileID: 7400000, guid: c1e1d51e67e4bf943990751885f061e5, type: 2}
+  - {fileID: 7400000, guid: 698c0aade5f834f4f939009aa017b64c, type: 2}
+  - {fileID: 7400000, guid: cac95f226ed36424fb0d7c690a49b731, type: 2}
+  - {fileID: 7400000, guid: e45b8c38f1b541d48b9dbe4b7c440a34, type: 2}
+  - {fileID: 7400000, guid: cba34ebda3dab0549b76babaa20356bc, type: 2}
+  - {fileID: 7400000, guid: cc1225f03cbca8b4d8c0a9e62b64b90d, type: 2}
+  - {fileID: 7400000, guid: cac95f226ed36424fb0d7c690a49b731, type: 2}
+  - {fileID: 7400000, guid: e45b8c38f1b541d48b9dbe4b7c440a34, type: 2}
+  - {fileID: 7400000, guid: cba34ebda3dab0549b76babaa20356bc, type: 2}
+  - {fileID: 7400000, guid: cc1225f03cbca8b4d8c0a9e62b64b90d, type: 2}

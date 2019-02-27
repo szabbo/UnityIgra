@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonWizardPants
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 06d9cffb17b76984285738daecde7739, type: 3}
+  stackSize: 0
+  title: Uncommon Pants of Wizards
+  quality: 1
+  price: 0
+  armorType: 4
+  armor: 6
+  intellect: 2
+  strenght: 4
+  stamina: 5
+  animationClips:
+  - {fileID: 7400000, guid: 0f5ea19346f828b4bbe8a27016169bf7, type: 2}
+  - {fileID: 7400000, guid: 9ad8561ce4d4d0149b3e566b905a6054, type: 2}
+  - {fileID: 7400000, guid: d4c9ce6c6c7d4974b9b07bef66ba9c31, type: 2}
+  - {fileID: 7400000, guid: fcde46ec6f33d7a4c887254adf5b20dd, type: 2}
+  - {fileID: 7400000, guid: 0f5ea19346f828b4bbe8a27016169bf7, type: 2}
+  - {fileID: 7400000, guid: 9ad8561ce4d4d0149b3e566b905a6054, type: 2}
+  - {fileID: 7400000, guid: d4c9ce6c6c7d4974b9b07bef66ba9c31, type: 2}
+  - {fileID: 7400000, guid: fcde46ec6f33d7a4c887254adf5b20dd, type: 2}
+  - {fileID: 7400000, guid: ad3822d3d932bf042aff1f48fa52d055, type: 2}
+  - {fileID: 7400000, guid: c2d230231f580b34aaa07464f92b792d, type: 2}
+  - {fileID: 7400000, guid: a65aaabaf36fce24388ca884666654de, type: 2}
+  - {fileID: 7400000, guid: 105d6a46e88d4ee4e832efcec343260c, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonArcherBow
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 9e94c318b5164e84cae30e9cb9efc8ef, type: 3}
+  stackSize: 0
+  title: Uncommon Bow of Archers
+  quality: 1
+  price: 0
+  armorType: 6
+  armor: 6
+  intellect: 1
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: 3e8ce529b34e1df4cb467354a2f45617, type: 2}
+  - {fileID: 7400000, guid: d7d005aa12e45f74db5c7c074946560c, type: 2}
+  - {fileID: 7400000, guid: 5a807e74f863ceb4982ed954a34f0a76, type: 2}
+  - {fileID: 7400000, guid: 7ef5a8f19dfdb9c4e9592575e53178be, type: 2}
+  - {fileID: 7400000, guid: 56bb64b5ad0805a4d8fdf7915343cf3b, type: 2}
+  - {fileID: 7400000, guid: 43bf7f0973210b14187f5c1b1c5afb83, type: 2}
+  - {fileID: 7400000, guid: 9ef5909ebd61e3943bf96ea7e834e5f6, type: 2}
+  - {fileID: 7400000, guid: 6fb031d3ea100bc44805605348de08d3, type: 2}
+  - {fileID: 7400000, guid: 56bb64b5ad0805a4d8fdf7915343cf3b, type: 2}
+  - {fileID: 7400000, guid: 43bf7f0973210b14187f5c1b1c5afb83, type: 2}
+  - {fileID: 7400000, guid: 9ef5909ebd61e3943bf96ea7e834e5f6, type: 2}
+  - {fileID: 7400000, guid: 6fb031d3ea100bc44805605348de08d3, type: 2}

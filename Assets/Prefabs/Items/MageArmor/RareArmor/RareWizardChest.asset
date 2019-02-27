@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareWizardChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 69e8486bd6b655346a73ef2cf75d3e99, type: 3}
+  stackSize: 0
+  title: Rare Wizard Chest
+  quality: 2
+  price: 0
+  armorType: 2
+  armor: 10
+  intellect: 3
+  strenght: 8
+  stamina: 8
+  animationClips:
+  - {fileID: 7400000, guid: 256ac8cbd1defb3459debf3cfa2b7f43, type: 2}
+  - {fileID: 7400000, guid: 27e154a88cba4f340919a9cff1a628c3, type: 2}
+  - {fileID: 7400000, guid: 7f4b1b143e5751b489b231e8085f09fc, type: 2}
+  - {fileID: 7400000, guid: c7cf5d944cc6d7749967b838668b557f, type: 2}
+  - {fileID: 7400000, guid: 256ac8cbd1defb3459debf3cfa2b7f43, type: 2}
+  - {fileID: 7400000, guid: 27e154a88cba4f340919a9cff1a628c3, type: 2}
+  - {fileID: 7400000, guid: 7f4b1b143e5751b489b231e8085f09fc, type: 2}
+  - {fileID: 7400000, guid: c7cf5d944cc6d7749967b838668b557f, type: 2}
+  - {fileID: 7400000, guid: 256ac8cbd1defb3459debf3cfa2b7f43, type: 2}
+  - {fileID: 7400000, guid: 27e154a88cba4f340919a9cff1a628c3, type: 2}
+  - {fileID: 7400000, guid: 7f4b1b143e5751b489b231e8085f09fc, type: 2}
+  - {fileID: 7400000, guid: c7cf5d944cc6d7749967b838668b557f, type: 2}

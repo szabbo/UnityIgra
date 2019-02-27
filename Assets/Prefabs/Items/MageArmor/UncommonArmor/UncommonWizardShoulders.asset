@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonWizardShoulders
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 8fb4206b4ac05fe4780e6589957f563d, type: 3}
+  stackSize: 0
+  title: Uncommon Shoulders of Wizards
+  quality: 1
+  price: 0
+  armorType: 1
+  armor: 6
+  intellect: 2
+  strenght: 4
+  stamina: 5
+  animationClips:
+  - {fileID: 7400000, guid: 8ef2402805bc1334ea5b6dccbdf85213, type: 2}
+  - {fileID: 7400000, guid: 40d6c859502d9a64d8264cfb4da7c04d, type: 2}
+  - {fileID: 7400000, guid: 57d9ea66626225848be12be34a169e1c, type: 2}
+  - {fileID: 7400000, guid: 32a4398c742fc214eb3d6a62f6cb4d80, type: 2}
+  - {fileID: 7400000, guid: 8ef2402805bc1334ea5b6dccbdf85213, type: 2}
+  - {fileID: 7400000, guid: 40d6c859502d9a64d8264cfb4da7c04d, type: 2}
+  - {fileID: 7400000, guid: 57d9ea66626225848be12be34a169e1c, type: 2}
+  - {fileID: 7400000, guid: 32a4398c742fc214eb3d6a62f6cb4d80, type: 2}
+  - {fileID: 7400000, guid: 8ef2402805bc1334ea5b6dccbdf85213, type: 2}
+  - {fileID: 7400000, guid: 40d6c859502d9a64d8264cfb4da7c04d, type: 2}
+  - {fileID: 7400000, guid: 57d9ea66626225848be12be34a169e1c, type: 2}
+  - {fileID: 7400000, guid: 32a4398c742fc214eb3d6a62f6cb4d80, type: 2}

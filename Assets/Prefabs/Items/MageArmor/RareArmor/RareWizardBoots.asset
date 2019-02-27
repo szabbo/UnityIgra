@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareWizardBoots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 4632607e596ca63479c2909977794e80, type: 3}
+  stackSize: 0
+  title: Rare Wizard Boots
+  quality: 2
+  price: 0
+  armorType: 5
+  armor: 10
+  intellect: 3
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: 9b9fc48e9f9f25640bf8b0118ea60464, type: 2}
+  - {fileID: 7400000, guid: dff274fb40ade7a44a78f7f944cf70fc, type: 2}
+  - {fileID: 7400000, guid: 8611a93a1384ae743aabaece139b4d7b, type: 2}
+  - {fileID: 7400000, guid: c939c47c607f73240b2515b16244a4e5, type: 2}
+  - {fileID: 7400000, guid: 9b9fc48e9f9f25640bf8b0118ea60464, type: 2}
+  - {fileID: 7400000, guid: dff274fb40ade7a44a78f7f944cf70fc, type: 2}
+  - {fileID: 7400000, guid: 8611a93a1384ae743aabaece139b4d7b, type: 2}
+  - {fileID: 7400000, guid: c939c47c607f73240b2515b16244a4e5, type: 2}
+  - {fileID: 7400000, guid: 52e8d7507e836ff41a1f05e0faf27c5e, type: 2}
+  - {fileID: 7400000, guid: de4d9545cb884694ca03a390b6cdb162, type: 2}
+  - {fileID: 7400000, guid: 9dc8c73ae7bef5a409108bd8bd83f34f, type: 2}
+  - {fileID: 7400000, guid: 3628eee19524b724b8cc8f574ff377ec, type: 2}

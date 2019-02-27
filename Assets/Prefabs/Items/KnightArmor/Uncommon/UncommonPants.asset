@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonPants
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 2fda63f7d634fc343b1134357b57191a, type: 3}
+  stackSize: 0
+  title: Uncommon Pants of Knights
+  quality: 1
+  price: 0
+  armorType: 4
+  armor: 6
+  intellect: 2
+  strenght: 4
+  stamina: 5
+  animationClips:
+  - {fileID: 7400000, guid: e18de4997857ee84b81e6fe4b5df9d80, type: 2}
+  - {fileID: 7400000, guid: b6e33d2d83a84744dbff705e92dc9eb6, type: 2}
+  - {fileID: 7400000, guid: 19ef5714b58b07d44a4939a4c63eb9e3, type: 2}
+  - {fileID: 7400000, guid: 5c89f1fa81e58e84ba60afa8ff93750e, type: 2}
+  - {fileID: 7400000, guid: e18de4997857ee84b81e6fe4b5df9d80, type: 2}
+  - {fileID: 7400000, guid: b6e33d2d83a84744dbff705e92dc9eb6, type: 2}
+  - {fileID: 7400000, guid: 19ef5714b58b07d44a4939a4c63eb9e3, type: 2}
+  - {fileID: 7400000, guid: 5c89f1fa81e58e84ba60afa8ff93750e, type: 2}
+  - {fileID: 7400000, guid: 6306212328f23d3489b667aa2aedf148, type: 2}
+  - {fileID: 7400000, guid: 0e5ac1705acf1cb49a80e285f2c36656, type: 2}
+  - {fileID: 7400000, guid: 6d82a8281681317419134fee2ef7e487, type: 2}
+  - {fileID: 7400000, guid: ded110d82fcb6c24381f0a8e0bcd671f, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonWizardBoots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5e3a9ff038dd08144b30c0fef49be945, type: 3}
+  stackSize: 0
+  title: Uncommon Boots of Wizards
+  quality: 1
+  price: 0
+  armorType: 5
+  armor: 6
+  intellect: 2
+  strenght: 5
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: 5dbf5d6bb87329248b6c657714af26c6, type: 2}
+  - {fileID: 7400000, guid: eb1f258e170298144b7fe976dc844bd2, type: 2}
+  - {fileID: 7400000, guid: b7602de2ff472b34882a17e7d16df64e, type: 2}
+  - {fileID: 7400000, guid: ddd62e1a7a28a9e4183a25b7f8cef95b, type: 2}
+  - {fileID: 7400000, guid: 5dbf5d6bb87329248b6c657714af26c6, type: 2}
+  - {fileID: 7400000, guid: eb1f258e170298144b7fe976dc844bd2, type: 2}
+  - {fileID: 7400000, guid: b7602de2ff472b34882a17e7d16df64e, type: 2}
+  - {fileID: 7400000, guid: ddd62e1a7a28a9e4183a25b7f8cef95b, type: 2}
+  - {fileID: 7400000, guid: ee55bd54bed58ee4cad09a559659182e, type: 2}
+  - {fileID: 7400000, guid: 8a4bd140cbd6c1b4888b9cc1eba5dc9b, type: 2}
+  - {fileID: 7400000, guid: f7c5a943619014541a529cea0b007b5a, type: 2}
+  - {fileID: 7400000, guid: 9cea26d47ac59e54594fc191fd1b6bf2, type: 2}

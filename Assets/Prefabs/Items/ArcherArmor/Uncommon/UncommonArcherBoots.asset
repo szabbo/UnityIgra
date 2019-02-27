@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonArcherBoots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 2dd716ad235d2dd4ab70236d857f63ea, type: 3}
+  stackSize: 0
+  title: Uncommon Boots of Archers
+  quality: 1
+  price: 0
+  armorType: 5
+  armor: 6
+  intellect: 2
+  strenght: 5
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: 07a232eb787128f4aa7cda0cbca92d4b, type: 2}
+  - {fileID: 7400000, guid: 7fe00347c3ac4824ebeb016c0584b72c, type: 2}
+  - {fileID: 7400000, guid: 09637e6a8606b0c4bb90c513d9734c51, type: 2}
+  - {fileID: 7400000, guid: 808c46f8600e0a84291ced5d7aeb3b8f, type: 2}
+  - {fileID: 7400000, guid: 07a232eb787128f4aa7cda0cbca92d4b, type: 2}
+  - {fileID: 7400000, guid: 7fe00347c3ac4824ebeb016c0584b72c, type: 2}
+  - {fileID: 7400000, guid: 09637e6a8606b0c4bb90c513d9734c51, type: 2}
+  - {fileID: 7400000, guid: 808c46f8600e0a84291ced5d7aeb3b8f, type: 2}
+  - {fileID: 7400000, guid: f98fe1369c558884083c684767bb262f, type: 2}
+  - {fileID: 7400000, guid: 1946220ff9fe4ff4e9911fcbb355cac5, type: 2}
+  - {fileID: 7400000, guid: 915922970b2fe704880bd66382e8f087, type: 2}
+  - {fileID: 7400000, guid: 026689b837ab26748b473830129531c2, type: 2}

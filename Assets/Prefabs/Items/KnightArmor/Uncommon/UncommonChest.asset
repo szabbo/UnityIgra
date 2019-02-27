@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5215e7b3747ccc54f8c472d0ffa6906b, type: 3}
+  stackSize: 0
+  title: Uncommon Chest of Knights
+  quality: 1
+  price: 0
+  armorType: 2
+  armor: 6
+  intellect: 2
+  strenght: 6
+  stamina: 7
+  animationClips:
+  - {fileID: 7400000, guid: 5530b36fdcb53e64ea04ef46d00b2e67, type: 2}
+  - {fileID: 7400000, guid: 87d9fb32bc69ed04189cf2d40a727b8c, type: 2}
+  - {fileID: 7400000, guid: e289f4a547cf0c545ba58e24d3b3d2ea, type: 2}
+  - {fileID: 7400000, guid: fbdd938bb98b142449cc21cfcd15d468, type: 2}
+  - {fileID: 7400000, guid: 5530b36fdcb53e64ea04ef46d00b2e67, type: 2}
+  - {fileID: 7400000, guid: 87d9fb32bc69ed04189cf2d40a727b8c, type: 2}
+  - {fileID: 7400000, guid: e289f4a547cf0c545ba58e24d3b3d2ea, type: 2}
+  - {fileID: 7400000, guid: fbdd938bb98b142449cc21cfcd15d468, type: 2}
+  - {fileID: 7400000, guid: 5530b36fdcb53e64ea04ef46d00b2e67, type: 2}
+  - {fileID: 7400000, guid: 87d9fb32bc69ed04189cf2d40a727b8c, type: 2}
+  - {fileID: 7400000, guid: e289f4a547cf0c545ba58e24d3b3d2ea, type: 2}
+  - {fileID: 7400000, guid: fbdd938bb98b142449cc21cfcd15d468, type: 2}

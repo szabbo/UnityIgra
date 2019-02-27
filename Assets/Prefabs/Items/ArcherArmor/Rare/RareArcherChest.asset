@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareArcherChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 89e4e3d9b48f1e544a9f147f8a7a2d4f, type: 3}
+  stackSize: 0
+  title: Rare Archer Chest
+  quality: 2
+  price: 0
+  armorType: 2
+  armor: 10
+  intellect: 3
+  strenght: 8
+  stamina: 8
+  animationClips:
+  - {fileID: 7400000, guid: ba582b37ad5db24429f3d59ecba38d36, type: 2}
+  - {fileID: 7400000, guid: 5fe72f24a0137d74b88a8f28fa6a839c, type: 2}
+  - {fileID: 7400000, guid: 9f6ed67bd6cae404aa53d9fbbea6e8c3, type: 2}
+  - {fileID: 7400000, guid: 34ee59f77db8bd441b48b46fcefcb251, type: 2}
+  - {fileID: 7400000, guid: ba582b37ad5db24429f3d59ecba38d36, type: 2}
+  - {fileID: 7400000, guid: 5fe72f24a0137d74b88a8f28fa6a839c, type: 2}
+  - {fileID: 7400000, guid: 9f6ed67bd6cae404aa53d9fbbea6e8c3, type: 2}
+  - {fileID: 7400000, guid: 34ee59f77db8bd441b48b46fcefcb251, type: 2}
+  - {fileID: 7400000, guid: ba582b37ad5db24429f3d59ecba38d36, type: 2}
+  - {fileID: 7400000, guid: 5fe72f24a0137d74b88a8f28fa6a839c, type: 2}
+  - {fileID: 7400000, guid: 9f6ed67bd6cae404aa53d9fbbea6e8c3, type: 2}
+  - {fileID: 7400000, guid: 34ee59f77db8bd441b48b46fcefcb251, type: 2}

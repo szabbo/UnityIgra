@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareHelmet
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 44ead1cd069489b43b900f191bda4cb0, type: 3}
+  stackSize: 0
+  title: Rare Knight Helmet
+  quality: 2
+  price: 0
+  armorType: 0
+  armor: 10
+  intellect: 4
+  strenght: 5
+  stamina: 7
+  animationClips:
+  - {fileID: 7400000, guid: 376ddfa68b950ed4ca3fa503c0a04fff, type: 2}
+  - {fileID: 7400000, guid: d5ab28d881c300e4a8559d0ed0722ea2, type: 2}
+  - {fileID: 7400000, guid: e0760f0ae2ea92f4ca02107ee0ee4520, type: 2}
+  - {fileID: 7400000, guid: 3589b2dcfdefbac4081bfd4eb4d3d9f0, type: 2}
+  - {fileID: 7400000, guid: 376ddfa68b950ed4ca3fa503c0a04fff, type: 2}
+  - {fileID: 7400000, guid: d5ab28d881c300e4a8559d0ed0722ea2, type: 2}
+  - {fileID: 7400000, guid: e0760f0ae2ea92f4ca02107ee0ee4520, type: 2}
+  - {fileID: 7400000, guid: 3589b2dcfdefbac4081bfd4eb4d3d9f0, type: 2}
+  - {fileID: 7400000, guid: 376ddfa68b950ed4ca3fa503c0a04fff, type: 2}
+  - {fileID: 7400000, guid: d5ab28d881c300e4a8559d0ed0722ea2, type: 2}
+  - {fileID: 7400000, guid: e0760f0ae2ea92f4ca02107ee0ee4520, type: 2}
+  - {fileID: 7400000, guid: 3589b2dcfdefbac4081bfd4eb4d3d9f0, type: 2}

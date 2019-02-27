@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonArcherShoulders
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 036c5999104792949ae312707e21fa09, type: 3}
+  stackSize: 0
+  title: Uncommon Shoulders of Archers
+  quality: 1
+  price: 0
+  armorType: 1
+  armor: 6
+  intellect: 2
+  strenght: 4
+  stamina: 5
+  animationClips:
+  - {fileID: 7400000, guid: a4baee1bd17a9b141918552c751747d4, type: 2}
+  - {fileID: 7400000, guid: a12eb063ea766474b91e9941c33956c1, type: 2}
+  - {fileID: 7400000, guid: 258ecd132d6019b4fbfe1d0f31b1c43a, type: 2}
+  - {fileID: 7400000, guid: 08cc12806d1b058419f5e0c83ce9968d, type: 2}
+  - {fileID: 7400000, guid: a4baee1bd17a9b141918552c751747d4, type: 2}
+  - {fileID: 7400000, guid: a12eb063ea766474b91e9941c33956c1, type: 2}
+  - {fileID: 7400000, guid: 258ecd132d6019b4fbfe1d0f31b1c43a, type: 2}
+  - {fileID: 7400000, guid: 08cc12806d1b058419f5e0c83ce9968d, type: 2}
+  - {fileID: 7400000, guid: a4baee1bd17a9b141918552c751747d4, type: 2}
+  - {fileID: 7400000, guid: a12eb063ea766474b91e9941c33956c1, type: 2}
+  - {fileID: 7400000, guid: 258ecd132d6019b4fbfe1d0f31b1c43a, type: 2}
+  - {fileID: 7400000, guid: 08cc12806d1b058419f5e0c83ce9968d, type: 2}

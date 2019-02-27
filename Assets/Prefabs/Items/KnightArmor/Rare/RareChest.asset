@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 15e757804d58b344dbc5389ae931fa4b, type: 3}
+  stackSize: 0
+  title: Rare Knight Chest
+  quality: 2
+  price: 0
+  armorType: 2
+  armor: 10
+  intellect: 3
+  strenght: 8
+  stamina: 8
+  animationClips:
+  - {fileID: 7400000, guid: c419bf060f31d894998971037a6a95b4, type: 2}
+  - {fileID: 7400000, guid: 548fd3003d3c5b842b7012e4e144163a, type: 2}
+  - {fileID: 7400000, guid: 5793542a443ddb54792f2944a9a24933, type: 2}
+  - {fileID: 7400000, guid: ea34b7878af2ba64b9c477cea43d74c5, type: 2}
+  - {fileID: 7400000, guid: c419bf060f31d894998971037a6a95b4, type: 2}
+  - {fileID: 7400000, guid: 548fd3003d3c5b842b7012e4e144163a, type: 2}
+  - {fileID: 7400000, guid: 5793542a443ddb54792f2944a9a24933, type: 2}
+  - {fileID: 7400000, guid: ea34b7878af2ba64b9c477cea43d74c5, type: 2}
+  - {fileID: 7400000, guid: c419bf060f31d894998971037a6a95b4, type: 2}
+  - {fileID: 7400000, guid: 548fd3003d3c5b842b7012e4e144163a, type: 2}
+  - {fileID: 7400000, guid: 5793542a443ddb54792f2944a9a24933, type: 2}
+  - {fileID: 7400000, guid: ea34b7878af2ba64b9c477cea43d74c5, type: 2}

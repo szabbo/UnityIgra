@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareWizardPants
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: df4863f7a66291c44a7ea79049fc7de8, type: 3}
+  stackSize: 0
+  title: Rare Wizard Pants
+  quality: 2
+  price: 0
+  armorType: 4
+  armor: 10
+  intellect: 3
+  strenght: 6
+  stamina: 7
+  animationClips:
+  - {fileID: 7400000, guid: 785fe39e073f6f54da8bc9ee063602ba, type: 2}
+  - {fileID: 7400000, guid: d2ed0484fe2ca374c81c3c16a0a529ce, type: 2}
+  - {fileID: 7400000, guid: 3a8fceb05414c294db425bae358092ab, type: 2}
+  - {fileID: 7400000, guid: f4d98c52a72bbb4448513a5d706ed1ea, type: 2}
+  - {fileID: 7400000, guid: 785fe39e073f6f54da8bc9ee063602ba, type: 2}
+  - {fileID: 7400000, guid: d2ed0484fe2ca374c81c3c16a0a529ce, type: 2}
+  - {fileID: 7400000, guid: 3a8fceb05414c294db425bae358092ab, type: 2}
+  - {fileID: 7400000, guid: f4d98c52a72bbb4448513a5d706ed1ea, type: 2}
+  - {fileID: 7400000, guid: 0d01defe678d3394e9b85e3026ffe991, type: 2}
+  - {fileID: 7400000, guid: 6bfa44597f037684da283a0a2b616169, type: 2}
+  - {fileID: 7400000, guid: a061cbca0f77b9f4f8f5982302578029, type: 2}
+  - {fileID: 7400000, guid: ddc554ec6d8cd674db7679c04dcc9e66, type: 2}

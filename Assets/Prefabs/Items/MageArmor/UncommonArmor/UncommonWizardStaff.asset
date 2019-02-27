@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: UncommonWizardStaff
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 71cdcd258b8c6a346bcb15be9e99eb0d, type: 3}
+  stackSize: 0
+  title: Uncommon Staff of Wizards
+  quality: 1
+  price: 0
+  armorType: 6
+  armor: 6
+  intellect: 1
+  strenght: 7
+  stamina: 6
+  animationClips:
+  - {fileID: 7400000, guid: 9bd32a6bcd890de43a487cb9c4ddd988, type: 2}
+  - {fileID: 7400000, guid: c73d14b5dffe8ee45b96b470d6476b38, type: 2}
+  - {fileID: 7400000, guid: 01bfa6a30b5bff541862303d1dc1e2ec, type: 2}
+  - {fileID: 7400000, guid: 2bd80c67eea2cf94983ed78b1062eef1, type: 2}
+  - {fileID: 7400000, guid: 809677c19bf45894f94a9e726abbd259, type: 2}
+  - {fileID: 7400000, guid: aab4db4aed1059440a86afe10ba7931e, type: 2}
+  - {fileID: 7400000, guid: 3fc8d0c0a2813e04ab5470d114034b49, type: 2}
+  - {fileID: 7400000, guid: 4c849b1bb0dc4ba4897d8282e9d52755, type: 2}
+  - {fileID: 7400000, guid: 809677c19bf45894f94a9e726abbd259, type: 2}
+  - {fileID: 7400000, guid: aab4db4aed1059440a86afe10ba7931e, type: 2}
+  - {fileID: 7400000, guid: 3fc8d0c0a2813e04ab5470d114034b49, type: 2}
+  - {fileID: 7400000, guid: 4c849b1bb0dc4ba4897d8282e9d52755, type: 2}

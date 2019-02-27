@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a01df2a7802a740ae982be198c4d57, type: 3}
+  m_Name: RareWizardStaff
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 521836617761287489f13cb1823b9309, type: 3}
+  stackSize: 0
+  title: Rare Wizard Staff
+  quality: 2
+  price: 0
+  armorType: 6
+  armor: 10
+  intellect: 1
+  strenght: 9
+  stamina: 7
+  animationClips:
+  - {fileID: 7400000, guid: 9eafd563ece6c1f43ae9db2f76b29f7a, type: 2}
+  - {fileID: 7400000, guid: a4212e08aa957974b9e7e5ddb51d8101, type: 2}
+  - {fileID: 7400000, guid: c126ede116c951440b29d25187d9e33d, type: 2}
+  - {fileID: 7400000, guid: 780bcfa853c958548847d34c93a9b31b, type: 2}
+  - {fileID: 7400000, guid: cca80c2d54efe1c449d0b4ffd75f26b1, type: 2}
+  - {fileID: 7400000, guid: 3e819d391f7c5b94bbc857a6ddd78b57, type: 2}
+  - {fileID: 7400000, guid: 99818f7ec2207674caaf1202b08aba24, type: 2}
+  - {fileID: 7400000, guid: b506221e54541654a8add73989e3a6c8, type: 2}
+  - {fileID: 7400000, guid: cca80c2d54efe1c449d0b4ffd75f26b1, type: 2}
+  - {fileID: 7400000, guid: 3e819d391f7c5b94bbc857a6ddd78b57, type: 2}
+  - {fileID: 7400000, guid: 99818f7ec2207674caaf1202b08aba24, type: 2}
+  - {fileID: 7400000, guid: b506221e54541654a8add73989e3a6c8, type: 2}
